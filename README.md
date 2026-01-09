@@ -26,8 +26,15 @@ I’m a Business Project Manager focused on building operational systems that he
 ---
 
 ### 🧰 Tools I use
-**HubSpot** • **Google Analytics** • **Notion** • **Okta** • **QuickBooks**  
-**Google Ads** • **Jira** • **GitHub** • spreadsheets ✨
+**Communication:** Slack • Zoom • Google Meet  
+**Workspace & docs:** Google Workspace (Gmail, Docs, Sheets, Drive) • Notion  
+**Project delivery:** Jira  
+**CRM & marketing:** HubSpot • GA4 • Google Ads • Framer  
+**Data & integrations:** Segment • APIs/Webhooks  
+**Finance & ops:** QuickBooks • Stripe • Gusto  
+**Security & admin:** Okta • Google Admin  
+**Design & collaboration:** Figma • Canva 
+**Version control:** GitHub
 
 ---
 
